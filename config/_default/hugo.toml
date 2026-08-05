@@ -1,0 +1,48 @@
+DefaultContentLanguage = "zh"
+baseURL = "https://example.org/"
+locale = "zh-cn"
+title = "来自CX330的BLOG"
+theme="hugo-theme-stack"
+
+[Params.sidebar]
+emoji = "❓"
+subtitle = "Dorothyyy"
+avatar = "avatar.png"
+
+[menu]
+[[menu.main]]
+    name = '主页'
+    pageRef = '/'
+    weight = 10
+[menu.main.params]
+    icon = "home"
+[[menu.main]]
+    name = '关于'
+    pageRef = '/page/about'
+    weight = 20
+[menu.main.params]
+    icon = "user"
+[[menu.main]]
+    name = '归档'
+    pageRef = '/page/archives'
+    weight = 30
+[menu.main.params]
+    icon = "archives"
+[[menu.main]]
+    name = '搜索'
+    pageRef = '/page/search/index'
+    weight = 40
+[menu.main.params]
+    icon = "search"
+[[menu.main]]
+    name = '友链'
+    pageRef = '/page/friend'
+    weight = 50
+[menu.main.params]
+    icon = "link"
+
+
+#配色方案为深色且不切换
+[Params.colorScheme]
+toggle = false
+default = "dark"

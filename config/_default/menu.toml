@@ -1,0 +1,14 @@
+
+    [[social]]
+    identifier = "github"
+    url        = "https://github.com/Dorothyyy1332"
+
+    [social.params]
+       icon = "brand-github"
+
+[[social]]
+    identifier = "steam"
+    url        = ""
+
+    [social.params]
+        icon = "brand-steam"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 来自CX330的BLOG</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on 来自CX330的BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 02 Aug 2026 18:43:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>My First Post</title>
+            <link>http://localhost:1313/posts/my-first-post/</link>
+            <pubDate>Sun, 02 Aug 2026 18:43:14 +0800</pubDate>
+            <guid>http://localhost:1313/posts/my-first-post/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/image/c1.jpg&#34; alt=&#34;Featured image of post My First Post&#34; /&gt;&lt;p&gt;好神奇，这是一个博客。&#xA;记录一下创建博客的指令&lt;code&gt;hugo new content/posts/博客名字.md&lt;/code&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

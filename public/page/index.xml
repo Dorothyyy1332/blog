@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 来自CX330的BLOG</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on 来自CX330的BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Search</title>
+            <link>http://localhost:1313/page/search/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/page/search/</guid>
+            <description></description>
+        </item><item>
+            <title>关于</title>
+            <link>http://localhost:1313/page/about/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/page/about/</guid>
+            <description>&lt;p&gt;博主正在努力制造第一篇正文……&lt;br&gt;&#xA;&lt;em&gt;本站图片来源于网络&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>归档</title>
+            <link>http://localhost:1313/page/archives/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/page/archives/</guid>
+            <description></description>
+        </item><item>
+            <title>友链</title>
+            <link>http://localhost:1313/page/friend/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/page/friend/</guid>
+            <description></description>
+        </item></channel>
+</rss>
